@@ -3,7 +3,7 @@ layout: post
 title: Review English in february
 tags: [English]
 ---
-I was lazy last month. I skipped the daily English email either/about 2 or 3 times. I think I needed some rest. But this Monday, I began studying/practicing again.
+I was lazy last month. I skipped the daily English email either 2 or 3 times. I think I needed some rest. But this Monday, I began practicing again.
 
 Nowadays, I feel that my pronunciation has been improving, thanks to being diligent about reading 2 short articles aloud after listening to an audio by a native speaker every night. For now, I need to improve my speaking to sound more natural as some of my Ringle tutors have indicated that my speaking sounds “choppy”. I will keep trying to use proper words that are appropriate to the situation.
 
