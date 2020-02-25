@@ -3,14 +3,14 @@ layout: post
 title: Review English in february
 tags: [English]
 ---
-I was lazy last one month. I skipped daily English letter 2 or 3 times. I think I had to get some rest. But From this Monday I've started to run again.
+I was lazy last month. I skipped the daily English email either/about 2 or 3 times. I think I needed some rest. But this Monday, I began studying/practicing again.
 
-Nowadays I feel my pronunciation has been improved, thanks to keeping routine reading 2 short articles loudly after listening to native speaking audio every night.  For now, I need to improve my speaking to be more natural. Because some of my Ringle tutors has been pointed out that my speaking sounds like choppy. And I will keep trying to use proper words that fit the situation according to the nuance.
+Nowadays, I feel that my pronunciation has been improving, thanks to being diligent about reading 2 short articles aloud after listening to an audio by a native speaker every night. For now, I need to improve my speaking to sound more natural as some of my Ringle tutors have indicated that my speaking sounds “choppy”. I will keep trying to use proper words that are appropriate to the situation.
 
-My listening is still needed to be better. Even though I always focus to listen to speaking, I have trouble to keep tracking what they're saying. This is my main concern. I asked to tutor that There is any best way to improve listening skills. They suggest listening to podcasts and watch video clips without subtitles.
+My listening skills still need improvement. Despite focusing on listening to the speakers, I still have trouble keeping up with what’s being said. This is my main concern. I asked tutors what is the best way to improve my listening skills. They suggested that I listen to podcasts and watch video clips without subtitles.
 
-So I installed app for a podcast. To be honest, I have not enough time to listen to podcasts.
+So I installed an app for listening to podcasts. To be honest, I don’t have enough time to listen to podcasts.
 
-I hope I can write more positive things in next month's review.
+I hope to write a more positive review next month.
 
 ![alt text](https://dioong.github.io/img/posts/2020-02-19-english_review_1.png "Ringle tutor score")
