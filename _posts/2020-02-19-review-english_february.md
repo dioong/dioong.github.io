@@ -9,7 +9,7 @@ Nowadays, I feel that my pronunciation has been improving, thanks to being dilig
 
 My listening skills still need improvement. Despite focusing on listening to the speakers, I still have trouble keeping up with what’s being said. This is my main concern. I asked tutors what is the best way to improve my listening skills. They suggested that I listen to podcasts and watch video clips without subtitles.
 
-So I installed an app for listening to podcasts. To be honest, I don’t have enough time to listen to podcasts.
+So I installed an app for listening to podcasts. To be honest, I don’t have enough time to listen to it.
 
 I hope to write a more positive review next month.
 
