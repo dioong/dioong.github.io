@@ -10,6 +10,7 @@ subtitle: A software engineer enjoying to learn new things.
   - Javascript
     - React & Redux
     - Typescript
+    - Electron
     - Backbone & marionette
     - Jquery
   - HTML&CSS
