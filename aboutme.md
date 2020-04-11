@@ -23,3 +23,6 @@ subtitle: A software engineer enjoying to learn new things.
     - Spring
   - Node
 
+- Test
+  - React Storybook
+  - Cypress
