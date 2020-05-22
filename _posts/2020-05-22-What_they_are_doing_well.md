@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Germany is doing well.
+title: What is Germany doing well.
 tags: [life, idea]
 ---
 독일에 거주하면서 농담삼아 했던 말이 있었다. '독일이 무슨 선진국이야? 이것도 안 되고 저것도 안 되고, 후진국이지'.
